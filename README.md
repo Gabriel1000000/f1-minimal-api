@@ -1,5 +1,12 @@
 
 # 🏎️ F1 Minimal API
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Fastify](https://img.shields.io/badge/Fastify-4.x-black?logo=fastify&logoColor=white)](https://fastify.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+
+## 📌 Descrição
 API minimalista de Fórmula 1 construída com **Node.js**, **Fastify** e **TypeScript**.  
 Projeto criado para praticar fundamentos de desenvolvimento backend, arquitetura de software e criação de APIs leves e rápidas.  
 
